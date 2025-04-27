@@ -1,7 +1,6 @@
 <h1 align="center">  <span style="color:#f39c12;">Dhruvi Dobariya</span> 👩‍💻</h1>
 <h3 align="center">🚀 Turning Data into Decisions | Building Smart AI Solutions 💡</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+AI+Enthusiast+%7C+Dashboard+Developer;&center=true&width=550&height=45">
 </p>
@@ -22,6 +21,7 @@
 📈 Turning Raw Data into Strategic Insights
 
 ---
+
 <!-- TECH TOOLBOX SECTION -->
 <h3 align="center">🛠️ Tech Toolbox</h3>
 
@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
  
-
   <!-- Visualization Tools -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
@@ -60,29 +59,60 @@
   <code>Tools:</code>            Git, GitHub<br/>
 </p>
 
-
 ---
 
 ## 💼 Projects Showcase
 
+### 🧬 Molecular-Property-Prediction-Using-Hypergraph
+Developed two hypergraph neural network models (k-clique-based and functional group-based) for molecular property prediction. Achieved 0.894 ROC AUC on the Tox21 NR-AR dataset, outperforming traditional GNNs.
+
+---
+
+### 🖥️ Sever-Client-Architecture
+Created a distributed file system with specialized servers managing different file types. Features automatic file routing, file operations (upload, download, delete, list), dynamic path resolution, and parallel processing.
+
+---
+
+### 📈 Customer-Satisfaction-Predictor
+Built a customer satisfaction prediction system using ZenML pipelines with MLflow integration. Features automated data processing, model training, deployment, and a Streamlit dashboard for real-time predictions.
+
+---
+
+### 🧪 Breast-Cancer-Study-CBio-Portal
+Analyzed breast cancer genomic data from MSKCC using machine learning models like Random Forest, SVM, and Naive Bayes. Identified key genes (TP53, PIK3CA) and achieved high predictive performance.
+
+---
+
+### 🔍 prct_Process_Tree_Search_And_Information_Tool_In_C
+Developed a C utility for Linux process management using the `/proc` filesystem. Supports process tree exploration, zombie detection, and control of process hierarchies via signals.
+
+---
+
+### 💻 W25Shell_A_Simple_Command_Line_Shell_In_C
+Implemented a lightweight Unix-like shell in C supporting standard/reverse piping, I/O redirection, conditional and sequential command execution, and robust file operations.
+
+---
+
+### 🗂️ Action_Based_d-tree_On_various_Command_Line_Arg
+Created a file system management tool in C using `ftw.h` for file traversal. Features include listing files, calculating size, selective deletion by extension, and directory operations.
+
+---
+
 ### 🖐 Gesture Volume Control  
 🔊 Real-time hand gesture-based volume control using OpenCV, MediaPipe, Py-caw  
 📈 Improved accessibility for 1000+ users  
-<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="300"/>
 
 ---
 
 ### 🩺 Pneumonia Detection  
 🧠 Deep Learning model using CNNs with 95% accuracy on X-ray image classification  
 🖼️ Dataset of 10,000+ images  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 ---
 
 ### 📉 HR Analytics Dashboard  
 📊 Built an interactive Tableau dashboard for 500+ employees  
 💡 Helped HR improve retention strategy by 15%  
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="300"/>
 
 ---
 
@@ -103,8 +133,6 @@
 
 ---
 
-
-
 ## 🌱 Currently Exploring
 
 - Advanced Machine Learning (XGBoost, NLP, etc.)  
@@ -116,4 +144,3 @@
 > ✨ *"Code with purpose. Analyze with passion. Deliver with impact."*
 
 ---
-
