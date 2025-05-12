@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Turning Data into Decisions | Building Smart AI Solutions 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+AI+Enthusiast+%7C+Dashboard+Developer;&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+AI+Enthusiast+%7C+Dashboard+Developer;&center=true&width=600&height=45">
 </p>
 
 <p align="center">
